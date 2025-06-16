@@ -9,7 +9,7 @@ function Footer() {
       <footer id="footer">
         <div className="container-footer ">
           <h3>GET IN TOUCH</h3>
-          <p><IoCall style={{ fill: '#ef6603' }} />+91 76192 21922</p>
+          <p><IoCall style={{ fill: '#ef6603' }} />+91 123456789</p>
           <p><IoCall style={{ fill: '#ef6603' }} />+91 89041 72505</p>
           <p><MdEmail style={{ fill: '#ef6603' }} /><a href="/#">admin@amigosbusinesscorp.com</a></p>
           <div className="social-links">
